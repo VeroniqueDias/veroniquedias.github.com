@@ -5,9 +5,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_630_56 {
-    position: relative;
-}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -15,6 +12,12 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_630_70 {
+    position: relative;
+}
+.style_External_630_56 {
+    position: relative;
 }
 .Free_Form {
     color: rgb(81, 81, 81);
@@ -63,10 +66,10 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_515_20 {
+.Normal_External_515_43 {
     position: relative;
 }
-.Normal_External_515_43 {
+.Normal_External_515_20 {
     position: relative;
 }
 .Title {
@@ -99,16 +102,19 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_textbox_layout_style_default_External_630_70 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_84_22 {
+    position: relative;
 }
 .graphic_textbox_layout_style_default_External_630_56 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_100_100 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_84_22 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
